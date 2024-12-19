@@ -1,3 +1,6 @@
-console.log("hello");
-console.log("hello world");
-console.log("hello this is shivank singh working as a software developer at third normal")
+function mul(a,b)
+{
+    var m=a*b;
+    console.log(m)
+}
+mul(2,3)
