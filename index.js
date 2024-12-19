@@ -1,3 +1,8 @@
-console.log("hello");
-console.log("hello world");
-console.log("hello this is shivank singh working as a software developer at third normal")
+function sum(a, b)
+{
+    var sum=a+b;
+    console.log(sum);
+
+
+}
+sum(2,3);
